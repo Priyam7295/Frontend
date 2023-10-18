@@ -1,0 +1,91 @@
+
+
+   
+
+#navbar{
+    flex-direction: column;
+    margin-top: 12px;
+    
+
+}
+
+#navbar ul li{
+    font-size:0.9rem;
+}
+
+#navbar::before{
+    margin-top: -12px;
+}
+#home{
+    height: 370px;
+    
+}
+#navbar img{
+    width: 43px;
+    height: 43px;
+}
+#home::before{
+    height: 700px;
+    margin-left: -20px;
+    width: 100%;
+    
+    
+   
+}
+#home p{
+    font-size: 12px;
+}
+.h-primary{
+    font-size: 17px;
+    margin-top: 195px;
+    
+}
+
+#services{
+    flex-direction: column;
+    /* margin-top: 70px; */
+}
+#clients{
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+#clients img{
+
+    width: 76px;
+    padding: 2px 3px;
+    height: auto;
+}
+
+.services-container h1{
+    margin-top: 198px;
+   
+
+}
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
+
+#contact form{
+    width: 70%;
+}
+
+
+.box #first{
+    width: 100px;
+}
+
+
+.box #second{
+    width: 100px;
+}
+.box #third{
+    width: 100px;
+}
+
+#services .box{
+    padding: 14px;
+    margin: 0px 15px;
+    margin-bottom: 20px;
+}
